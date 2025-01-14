@@ -50,4 +50,4 @@ def run_game(rows, cols, generations, delay=0.2):
         time.sleep(delay)
 
 
-run_game(20, 20, 100)
+run_game(100, 100, 100)
