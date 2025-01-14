@@ -1,3 +1,20 @@
+# improvements
+3 Suggestions d'Améliorations pour le Jeu de la Vie
+1. Sauvegarde/Chargement de Configurations
+Permettre de sauvegarder l'état actuel dans un fichier
+Charger une configuration depuis un fichier
+Format simple (CSV ou JSON)
+2. Interface de Contrôle Interactive
+Touches pour pause/reprise (espace)
+Ajuster la vitesse (+/-)
+Réinitialiser la grille (r)
+3. Statistiques en Temps Réel
+Afficher le nombre de cellules vivantes
+Taux de changement entre générations
+Durée totale de la simulation
+
+
+
 # Jeu de la Vie
 
 Une implémentation en Python du célèbre "Jeu de la Vie" de Conway.

@@ -51,3 +51,5 @@ def run_game(rows, cols, generations, delay=0.2):
 
 
 run_game(100, 100, 100)
+
+
