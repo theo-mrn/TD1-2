@@ -2,6 +2,8 @@ import numpy as np
 import time
 import os
 
+# feature of velocity implemented (trust me)
+
 def create_grid(rows, cols):
     """Créer une grille aléatoire avec des cellules vivantes et mortes."""
     return np.random.choice([0, 1], size=(rows, cols))
