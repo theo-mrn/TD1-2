@@ -17,7 +17,7 @@ Durée totale de la simulation
 
 # Jeu de la Vie
 
-Une implémentation en Python du célèbre "Jeu de la Vie" de Conway.
+Une implémentation en Python du célèbre "Jeu de la Vie" de Conway (en un peu moins bien quand même avec tout le respect). 
 
 ## Description
 
