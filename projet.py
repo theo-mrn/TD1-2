@@ -49,5 +49,5 @@ def run_game(rows, cols, generations, delay=0.2):
         grid = update_grid(grid)
         time.sleep(delay)
 
-# Paramètres du jeu : 20x20, 100 générations
+
 run_game(20, 20, 100)
