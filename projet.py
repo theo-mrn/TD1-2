@@ -4,7 +4,7 @@ import os
 
 # feature of velocity implemented (trust me)
 
-#  all bugs fixed
+#  all bugs fixed, including velocity
 
 def create_grid(rows, cols):
     """Créer une grille aléatoire avec des cellules vivantes et mortes."""
